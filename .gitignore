@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.key
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+.vagrant/
+*.log
+
+# Distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Virtual Machine / Docker
+.vagrant/
+
+# Credentials & Secrets
+*.pem
+*.key
+*.pub
+secrets/
+credentials.json
+
+# API Keys & Config (sensitive)
+config/keys.json
+config/secrets.json
+
+# MacOS
+.AppleDouble
+.LSOverride
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Local data/uploads
+data/local/
+uploads/
+temp/
+tmp/

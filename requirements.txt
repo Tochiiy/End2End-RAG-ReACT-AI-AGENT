@@ -1,0 +1,11 @@
+gradio
+langchain
+langchain-core
+langchain-community
+langchain-openai
+python-dotenv
+tavily-python
+faiss-cpu
+langchain-huggingface
+sentence-transformers
+pypdf
