@@ -1,4 +1,7 @@
 # End-to-End LangChain AI Agent with RAG
+live-link
+
+https://huggingface.co/spaces/Tochiiy/End2End-RAG-ReACT-AI-AGENT
 
 A powerful AI application built with LangChain that combines intelligent agents with Retrieval-Augmented Generation (RAG) capabilities. This application features a user-friendly Gradio interface and leverages advanced NLP models for information retrieval and processing.
 
@@ -74,8 +77,10 @@ python main.py
 The application will start a local Gradio server. Access it via your browser at the URL shown in the console (typically `http://localhost:7860`).
 
 ## 📁 Project Structure
+## view live web on the link below
 
-```
+https://huggingface.co/spaces/Tochiiy/End2End-RAG-ReACT-AI-AGENT
+
 End2End-langchain-W-Agent/
 ├── agent/
 │   ├── agent.py          # Core agent logic
